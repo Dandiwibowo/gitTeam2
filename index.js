@@ -42,3 +42,10 @@ function celciusToRandF(){
     console.log("Suhu "+result+" "+satuanAkhir);
 
 }
+
+function perkalian(){
+    var input2;
+    var input2;
+    var proses = input2 * input2;
+    return proses;
+}
